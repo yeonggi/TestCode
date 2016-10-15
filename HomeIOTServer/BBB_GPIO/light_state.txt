@@ -1,0 +1,13 @@
+[INFO][Sun Feb 14 22:21:25 2016]  state has changed dark to bright 
+[INFO][Sun Feb 14 22:21:35 2016]  state has changed bright to dark 
+[INFO][Sun Feb 14 22:21:35 2016]  state has changed dark to bright 
+[INFO][Sun Feb 14 22:21:35 2016]  state has changed bright to dark 
+[INFO][Sun Feb 14 22:21:35 2016]  state has changed dark to bright 
+[INFO][Sun Feb 14 22:22:02 2016]  state has changed dark to bright 
+[INFO][Sun Feb 14 22:22:35 2016]  state has changed dark to bright 
+[INFO][Sun Feb 14 22:22:44 2016]  state has changed bright to dark 
+[INFO][Sun Feb 14 22:22:44 2016]  state has changed dark to bright 
+[INFO][Sun Feb 14 22:22:45 2016]  state has changed bright to dark 
+[INFO][Sun Feb 14 22:22:45 2016]  state has changed dark to bright 
+[INFO][Sun Feb 14 22:40:09 2016]  state has changed dark to bright 
+[INFO][Sun Feb 14 23:55:32 2016]  state has changed dark to bright 
